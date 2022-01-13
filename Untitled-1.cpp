@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-    PRA+t;
+    t+t;
     }

@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-    rasda+asd;
+    rra+rra;
     }

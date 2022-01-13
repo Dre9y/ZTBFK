@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-    rar+summ;
+    zo+pa;
     }

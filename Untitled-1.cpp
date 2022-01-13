@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-   AA+AA;
+   DD+DD;
     }
